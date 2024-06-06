@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  color: rgb(0, 0, 96);
+  background-color: rgba(109, 109, 109, 0.3);
+}
+#result {
+  color: rgb(0, 0, 96);
+  font-size: 2rem;
+  text-shadow: rgba(255, 255, 255, 0.758) 1px 0 10px;
+}
